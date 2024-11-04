@@ -577,12 +577,6 @@
             <mxPoint x="361" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6UfE3asRL7jeOaHzusS-162" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="H6UfE3asRL7jeOaHzusS-15" target="H6UfE3asRL7jeOaHzusS-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130" y="730" as="sourcePoint" />
-            <mxPoint x="-80" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H6UfE3asRL7jeOaHzusS-163" value="ORDER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="501" width="120" height="60" as="geometry" />
         </mxCell>
@@ -621,6 +615,15 @@
             <mxPoint x="-90" y="810" as="sourcePoint" />
             <mxPoint x="-40" y="760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H6UfE3asRL7jeOaHzusS-171" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H6UfE3asRL7jeOaHzusS-1" target="H6UfE3asRL7jeOaHzusS-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="820" as="sourcePoint" />
+            <mxPoint x="140" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6UfE3asRL7jeOaHzusS-172" value="Berisi-kan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-363" y="680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
